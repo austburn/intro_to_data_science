@@ -6,7 +6,7 @@ To start, you'll need:
 * pip
 
 To start:
-```git clone https://github.com/austburn/intro_to_data_science.git```
-```cd intro_to_data_science```
-```. env/bin/activate```
-```pip install -r requirements.txt```
+* ```git clone https://github.com/austburn/intro_to_data_science.git```
+* ```cd intro_to_data_science```
+* ```. env/bin/activate```
+* ```pip install -r requirements.txt```

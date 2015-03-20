@@ -10,3 +10,10 @@ To start:
 * ```cd intro_to_data_science```
 * ```. env/bin/activate```
 * ```pip install -r requirements.txt```
+
+#Note
+If you have trouble with aquiring ```statsmodels``` or ```scipy```, refer to this [Stack Overflow Post](http://stackoverflow.com/questions/7496547/does-python-scipy-need-blas). Being on Ubuntu, the second answer is actually what helped me. For convenience, you need to:
+
+```sudo apt-get install gfortran libopenblas-dev liblapack-dev```
+
+To aquire some linear algebra libraries.
